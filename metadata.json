@@ -1,0 +1,6 @@
+{
+  "name": "World Cup 2026",
+  "description": "FIFA World Cup 2026 fixture tracker, live matches simulation, stats analysis, and AI predictor chatbot.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
